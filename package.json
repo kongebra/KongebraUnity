@@ -1,0 +1,18 @@
+{
+    "name": "com.kongebra",
+    "version": "1.0.0",
+    "displayName": "Kongebra",
+    "description": "Kongebra Unity Package",
+    "unity": "2019.3",
+    "unityRelease": "5f1",
+    "dependencies": {},
+    "keywords": [
+        "unity",
+        "kongebra"
+    ],
+    "author": {
+        "name": "Svein Are Danielsen",
+        "email": "sveindani@gmail.com",
+        "url": "https://kongebra.net/"
+    }
+}
